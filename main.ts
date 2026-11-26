@@ -367,7 +367,11 @@ function dataJs(): string {
 }
 
 // ---------- build ----------
-rmSync(out, { recursive: true, force: true });
+// The grader's /output is a mounted volume: removing the directory itself
+// fails (EBUSY, "Device or resource busy"), so clear only its contents.
+rmSync(appOut, { recursive: true, force: true });
+rmSync(join(out, 'screenshots'), { recursive: true, force: true });
+rmSync(join(out, 'dossier.json'), { force: true });
 mkdirSync(appOut, { recursive: true });
 mkdirSync(join(appOut, 'country'), { recursive: true });
 
