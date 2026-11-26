@@ -1,0 +1,2206 @@
+{
+ "fetchedAt": "2026-11-26T06:28:24.462Z",
+ "source": "World Bank Open Data API (api.worldbank.org/v2)",
+ "countries": [
+  {
+   "code": "USA",
+   "name": "United States",
+   "region": "North America",
+   "values": {
+    "population": {
+     "value": 340003797,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 29298013000000,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 86169.6641581917,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 86169.6641581914,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 78.890243902439,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 9147420,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 13.6238622652793,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 17.9287302134033,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 94.69380188,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.6265,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 6.5,
+     "year": 2024
+    },
+    "urban": {
+     "value": 80.1247798047184,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "CHN",
+   "name": "China",
+   "region": "Asia",
+   "values": {
+    "population": {
+     "value": 1408975000,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 18729668435848,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 13293.1162269366,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 27139.5181633767,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 78.017,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 9388210,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 9.31508933799393,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 14.665268836569,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 92,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.013,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 5.7,
+     "year": 2024
+    },
+    "urban": {
+     "value": 65.8946980998325,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "IND",
+   "name": "India",
+   "region": "Asia",
+   "values": {
+    "population": {
+     "value": 1450935791,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 3760813470500.86,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 2591.9916607122,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 10718.5934040662,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 72.235,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 2973190,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 2.17365173535787,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 7.14651714039908,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 64.9434967,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.962,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 26.6,
+     "year": 2024
+    },
+    "urban": {
+     "value": 35.3788972368389,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "IDN",
+   "name": "Indonesia",
+   "region": "Asia",
+   "values": {
+    "population": {
+     "value": 283487931,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 1396301788461.69,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 4925.43644992666,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 16472.4825935409,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 71.288,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 1892410.1,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 2.86503978188758,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 7.28860130431549,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 72.78075544,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 2.115,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 17.7,
+     "year": 2024
+    },
+    "urban": {
+     "value": 58.7509635387997,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "PAK",
+   "name": "Pakistan",
+   "region": "Asia",
+   "values": {
+    "population": {
+     "value": 251269164,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 371747087751.306,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 1479.47755241191,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 6263.186935403,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 67.799,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 770880,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 0.811831809174961,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 4.28062891951199,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 57.253,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 3.547,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 56,
+     "year": 2024
+    },
+    "urban": {
+     "value": 39.1734368360905,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "NGA",
+   "name": "Nigeria",
+   "region": "Africa",
+   "values": {
+    "population": {
+     "value": 232679478,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 252261880140.271,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 1084.16041805058,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 9099.86943863676,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 54.635,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 910770,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 0.566917637661195,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 3.04866208065127,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 41.21139908,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 4.382,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 115.6,
+     "year": 2024
+    },
+    "urban": {
+     "value": 62.9755675573659,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "BRA",
+   "name": "Brazil",
+   "region": "South America",
+   "values": {
+    "population": {
+     "value": 211998573,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 2185821610689.31,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 10310.5486973693,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 22370.9182253225,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 76.023,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 8358140,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 2.31826466114939,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 11.0491844889702,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 84.46347227,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.614,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 14.2,
+     "year": 2024
+    },
+    "urban": {
+     "value": 87.8958549533146,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "BGD",
+   "name": "Bangladesh",
+   "region": "Asia",
+   "values": {
+    "population": {
+     "value": 173562364,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 450119432068.852,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 2593.41611680774,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 9660.77962818873,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 74.93,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 130170,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 0.715539343541092,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 6.49846299627493,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 53.42171316,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 2.138,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 30.5,
+     "year": 2024
+    },
+    "urban": {
+     "value": 32.6783196323307,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "RUS",
+   "name": "Russia",
+   "region": "Europe",
+   "values": {
+    "population": {
+     "value": 143669648,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 2186462268813.08,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 14961.8974609375,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 47686.06640625,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 73.4404878048781,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 16376870,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 13.9845411189425,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 17.1774753758315,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 94.36495368,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.418,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 5.2,
+     "year": 2024
+    },
+    "urban": {
+     "value": 75.1119136177067,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "MEX",
+   "name": "Mexico",
+   "region": "North America",
+   "values": {
+    "population": {
+     "value": 130861007,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 1830489311088.89,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 13988.0423745241,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 25820.3527960242,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 75.264,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 1943950,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 3.63738680384754,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 8.24857017950351,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 83.12233799,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.892,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 13.1,
+     "year": 2024
+    },
+    "urban": {
+     "value": 79.7538805976118,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "JPN",
+   "name": "Japan",
+   "region": "Asia",
+   "values": {
+    "population": {
+     "value": 123975371,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 4190008188358.57,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 33797.1014287876,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 54156.2687689605,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 84.0363414634146,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 364500,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 7.84242057238933,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 29.7807703973917,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 85.54153081,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.15,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 2.4,
+     "year": 2024
+    },
+    "urban": {
+     "value": 92.1901718034531,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "ETH",
+   "name": "Ethiopia",
+   "region": "Africa",
+   "values": {
+    "population": {
+     "value": 132059767,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 149740297952.375,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 1133.88279681256,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 3292.3093336937,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 67.603,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 1122134.8,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 0.146636636122491,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 3.22998448410868,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 21.94129944,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 3.909,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 44.5,
+     "year": 2024
+    },
+    "urban": {
+     "value": 23.6222839355469,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "PHL",
+   "name": "Philippines",
+   "region": "Asia",
+   "values": {
+    "population": {
+     "value": 115843670,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 461671157904.74,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 3985.29464669706,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 11813.805926453,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 69.946,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 298170,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 1.5030109111702,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 5.49193411039176,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 67.26300914,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.894,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 26.5,
+     "year": 2024
+    },
+    "urban": {
+     "value": 55.4520983215477,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "EGY",
+   "name": "Egypt",
+   "region": "Africa",
+   "values": {
+    "population": {
+     "value": 116538258,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 389059910593.1,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 3338.47371043679,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 19121.874936645,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 71.806,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 995450,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 2.50251380967098,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 5.11629539338187,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 74.64839935,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 2.735,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 22.4,
+     "year": 2024
+    },
+    "urban": {
+     "value": 42.8004363938404,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "VNM",
+   "name": "Vietnam",
+   "region": "Asia",
+   "values": {
+    "population": {
+     "value": 100987686,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 476324572783.807,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 4716.6599379632,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 16387.9087954113,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 74.736,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 313429,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 4.26605675468195,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 9.04718319297274,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 84.15,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.895,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 17.3,
+     "year": 2024
+    },
+    "urban": {
+     "value": 38.4900703430176,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "TUR",
+   "name": "Türkiye",
+   "region": "Europe / Asia",
+   "values": {
+    "population": {
+     "value": 85518661,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 1359123768774.12,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 15892.7157287241,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 45122.9317187258,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 77.421,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 769630,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 5.37926453268486,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 10.2841810756946,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 87.3078767,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.48,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 9.6,
+     "year": 2024
+    },
+    "urban": {
+     "value": 89.3443122873887,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "IRN",
+   "name": "Iran",
+   "region": "Asia",
+   "values": {
+    "population": {
+     "value": 91567738,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 475252089215.416,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 5190.16959024821,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 19902.7484779621,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 77.854,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 1622500,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 9.05329342087712,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 8.23901267627149,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 85.3404007,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.684,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 11.3,
+     "year": 2024
+    },
+    "urban": {
+     "value": 77.0201263427734,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "DEU",
+   "name": "Germany",
+   "region": "Europe",
+   "values": {
+    "population": {
+     "value": 83516593,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 4685592577804.69,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 56103.7323182554,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 73957.0012170966,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 80.7926829268293,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 349430,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 6.94395663386317,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 23.1955871731941,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 93.49999579,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.36,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 3.7,
+     "year": 2024
+    },
+    "urban": {
+     "value": 82.0211432579125,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "THA",
+   "name": "Thailand",
+   "region": "Asia",
+   "values": {
+    "population": {
+     "value": 71668011,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 529385520941.539,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 7386.63615126055,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 24909.2266037939,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 76.564,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 510890,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 3.96005269352319,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 15.3627543814492,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 90.86718789,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.204,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 9,
+     "year": 2024
+    },
+    "urban": {
+     "value": 61.8689338391321,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "GBR",
+   "name": "United Kingdom",
+   "region": "Europe",
+   "values": {
+    "population": {
+     "value": 69281000,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 3695539513534.15,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 53341.3131094262,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 62839.4679324927,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 81.3868536585366,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 241930,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 4.22077337220883,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 19.4997673608515,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 95.4720993,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.551,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 4.7,
+     "year": 2024
+    },
+    "urban": {
+     "value": 83.2429544416085,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "FRA",
+   "name": "France",
+   "region": "Europe",
+   "values": {
+    "population": {
+     "value": 68551653,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 3160442622465.08,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 46103.0840855884,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 62524.5434134804,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 82.9804878048781,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 538950,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 4.00355772602595,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 22.1465618989138,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 88.65381638,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.61,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 4.3,
+     "year": 2024
+    },
+    "urban": {
+     "value": 78.7999750964116,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "ITA",
+   "name": "Italy",
+   "region": "Europe",
+   "values": {
+    "population": {
+     "value": 58952704,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 2383435562458.12,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 40429.6224047352,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 62292.9012423008,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 83.9512195121951,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 295720,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 5.07573834102673,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 24.624776723376,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 89.2207202,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.18,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 2.7,
+     "year": 2024
+    },
+    "urban": {
+     "value": 69.6047535143071,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "TZA",
+   "name": "Tanzania",
+   "region": "Africa",
+   "values": {
+    "population": {
+     "value": 68560157,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 79235713444.9777,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 1192.60668945313,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 4226.92626953125,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 67.212,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 884000,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 0.311205530057348,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 3.04500104922455,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 31.16209984,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 4.541,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 37,
+     "year": 2024
+    },
+    "urban": {
+     "value": 36.1684458862992,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "ZAF",
+   "name": "South Africa",
+   "region": "Africa",
+   "values": {
+    "population": {
+     "value": 64007187,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 401144998373.585,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 6267.186814093,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 15478.6456794969,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 66.312,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 1213090,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 6.87684962627712,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 6.69054794339382,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 78.35759735,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 2.205,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 35.1,
+     "year": 2024
+    },
+    "urban": {
+     "value": 63.6917984858172,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "KEN",
+   "name": "Kenya",
+   "region": "Africa",
+   "values": {
+    "population": {
+     "value": 56432944,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 120397537849.826,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 2133.46193404026,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 6649.67919174449,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 63.834,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 580880,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 0.38344092060836,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 2.96616899017204,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 34.97622513,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 3.167,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 38.8,
+     "year": 2024
+    },
+    "urban": {
+     "value": 31.8937831721599,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "MMR",
+   "name": "Myanmar",
+   "region": "Asia",
+   "values": {
+    "population": {
+     "value": 54500091,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 74068349523.8095,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 1359.05001560107,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 6006.17514543646,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 67.095,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 652670,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 0.575463259318228,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 7.3044263357285,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 45.4477005,
+     "year": 2020
+    },
+    "fertility": {
+     "value": 2.098,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 36.9,
+     "year": 2024
+    },
+    "urban": {
+     "value": 30.4499084074136,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "KOR",
+   "name": "South Korea",
+   "region": "Asia",
+   "values": {
+    "population": {
+     "value": 51751065,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 1875388209406.8,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 36238.639908315,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 61051.3492502498,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 83.6292682926829,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 97600,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 11.3622569893006,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 19.2735131316057,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 97.89563777,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 0.748,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 2.8,
+     "year": 2024
+    },
+    "urban": {
+     "value": 81.1682528469686,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "COL",
+   "name": "Colombia",
+   "region": "South America",
+   "values": {
+    "population": {
+     "value": 52886363,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 420504033143.211,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 7951.08624019412,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 22439.4001359818,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 77.913,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 1109500,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 1.79780371737796,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 9.77843560750778,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 79.34543299,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.634,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 11.5,
+     "year": 2024
+    },
+    "urban": {
+     "value": 78.5210811866115,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "ESP",
+   "name": "Spain",
+   "region": "Europe",
+   "values": {
+    "population": {
+     "value": 48848840,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 1725671652742.19,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 35326.7683069278,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 58063.7350840487,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 83.8878048780488,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 499685.509,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 4.50540688376633,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 21.1454438932121,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 95.7574516,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.1,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 3.2,
+     "year": 2024
+    },
+    "urban": {
+     "value": 80.315199821207,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "UKR",
+   "name": "Ukraine",
+   "region": "Europe",
+   "values": {
+    "population": {
+     "value": 37860221,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 190833835445.1,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 5391.62255859375,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 18636.13671875,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 74.692,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 579400,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 3.12934781865114,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 18.9624484896371,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 82.47489929,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 0.988,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 7.9,
+     "year": 2024
+    },
+    "urban": {
+     "value": 69.5315643200148,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "ARG",
+   "name": "Argentina",
+   "region": "South America",
+   "values": {
+    "population": {
+     "value": 45696159,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 638365455340.04,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 13969.7836603737,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 30475.3876517556,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 77.543,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 2736690,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 4.01066531653131,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 12.4160041547474,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 89.66715228,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.504,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 9.5,
+     "year": 2024
+    },
+    "urban": {
+     "value": 92.2742315972952,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "POL",
+   "name": "Poland",
+   "region": "Europe",
+   "values": {
+    "population": {
+     "value": 36559233,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 917767106146.761,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 25103.565661423,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 51262.5105756884,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 78.409756097561,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 306070,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 7.55108565871718,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 20.1434028173028,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 88.58496367,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.14,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 4.2,
+     "year": 2024
+    },
+    "urban": {
+     "value": 59.9705468695101,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "CAN",
+   "name": "Canada",
+   "region": "North America",
+   "values": {
+    "population": {
+     "value": 41262329,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 2270076189683.46,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 55015.7066917734,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 65482.9454728344,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 82.1080487804878,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 8788700,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 14.0072704088031,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 19.7995907648324,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 94.353302,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.25,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 5.4,
+     "year": 2024
+    },
+    "urban": {
+     "value": 82.7002565766633,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "AUS",
+   "name": "Australia",
+   "region": "Oceania",
+   "values": {
+    "population": {
+     "value": 27194286,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 1757022451652.83,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 64609.9865116088,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 72117.8826659555,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 83.0512195121951,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 7688287,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 14.0986639619808,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 17.7300159228367,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 96.13140106,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.481,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 3.6,
+     "year": 2024
+    },
+    "urban": {
+     "value": 87.6021469990446,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "SAU",
+   "name": "Saudi Arabia",
+   "region": "Asia",
+   "values": {
+    "population": {
+     "value": 35300280,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 1254140800000,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 35527.786181866,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 71936.2510663399,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 78.982,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 2149690,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 18.4845842582552,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 2.95084263846487,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 100,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 2.308,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 6,
+     "year": 2024
+    },
+    "urban": {
+     "value": 84.4554020211443,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "NLD",
+   "name": "Netherlands",
+   "region": "Europe",
+   "values": {
+    "population": {
+     "value": 17993485,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 1213936238063.28,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 67465.3208126875,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 85218.3689343246,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 81.9658536585366,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 33670,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 6.60188395966651,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 20.4960775816586,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 97.00679779,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.43,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 3.9,
+     "year": 2024
+    },
+    "urban": {
+     "value": 95.6396517079336,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "CHE",
+   "name": "Switzerland",
+   "region": "Europe",
+   "values": {
+    "population": {
+     "value": 9005582,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 969919786394.884,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 107702.065940312,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 97467.7447151829,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 84.4073170731707,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 39509.63,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 3.74568795220564,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 20.0190518226838,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 97.3443985,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.29,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 3.9,
+     "year": 2024
+    },
+    "urban": {
+     "value": 85.4615370020764,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "SWE",
+   "name": "Sweden",
+   "region": "Europe",
+   "values": {
+    "population": {
+     "value": 10569709,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 604827393488.582,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 57222.7100565003,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 71221.9379308266,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 84.0634146341463,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 407270,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 3.57381645984766,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 20.7467682423653,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 95.52930428,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.43,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 2.4,
+     "year": 2024
+    },
+    "urban": {
+     "value": 88.8559748346228,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "NOR",
+   "name": "Norway",
+   "region": "Europe",
+   "values": {
+    "population": {
+     "value": 5572279,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 500886328034.123,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 89888.9535204758,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 105657.0339185,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 83.1609756097561,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 364270,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 7.17830173255862,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 18.7852406279027,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 99,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.45,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 2.5,
+     "year": 2024
+    },
+    "urban": {
+     "value": 83.3293737928469,
+     "year": 2024
+    }
+   }
+  },
+  {
+   "code": "NZL",
+   "name": "New Zealand",
+   "region": "Oceania",
+   "values": {
+    "population": {
+     "value": 5290000,
+     "year": 2024
+    },
+    "gdp": {
+     "value": 261497198363.906,
+     "year": 2024
+    },
+    "gdpPerCapita": {
+     "value": 49432.3626396797,
+     "year": 2024
+    },
+    "gdpPppPerCapita": {
+     "value": 55793.9990422226,
+     "year": 2024
+    },
+    "lifeExpectancy": {
+     "value": 82.009756097561,
+     "year": 2024
+    },
+    "landArea": {
+     "value": 263310,
+     "year": 2024
+    },
+    "co2PerCapita": {
+     "value": 6.01410207939509,
+     "year": 2024
+    },
+    "pop65": {
+     "value": 17.1957543080631,
+     "year": 2024
+    },
+    "internetUsers": {
+     "value": 93.51930237,
+     "year": 2024
+    },
+    "fertility": {
+     "value": 1.57,
+     "year": 2024
+    },
+    "under5Mortality": {
+     "value": 4.7,
+     "year": 2024
+    },
+    "urban": {
+     "value": 83.9370658833132,
+     "year": 2024
+    }
+   }
+  }
+ ]
+}
